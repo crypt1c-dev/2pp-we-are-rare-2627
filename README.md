@@ -14,4 +14,4 @@ See: [Contributing](./CONTRIBUTING.md)
 
 ## Students
 
-Jens V.
+[Jens V.](./people/jens_vanmechelen.md)
